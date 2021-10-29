@@ -1,3 +1,3 @@
 # CopyRightCrypto
 
-[interactive dapp](frontend/index.html)
+[interactive dapp](cryptoright/frontend/index.html)
